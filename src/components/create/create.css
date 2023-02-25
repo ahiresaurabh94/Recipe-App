@@ -1,0 +1,24 @@
+.main-content1 {
+    
+    background-color: black;
+    color: white;
+    padding: 50px;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    padding-left: 300px;
+}
+
+.main-content1 div {
+    display: grid;
+    margin-bottom: 5px;
+}
+
+.main-content1 input {
+    width: 50%;
+}
+
+.btn1{
+    display: block;
+    margin-left: 120px;
+}
